@@ -8,7 +8,5 @@ public class Hello {
         System.out.println("AAAAAAAAAAAA");
         System.out.println("AAAAAAAAAAAA");
         System.out.println("BBBBBBBBBBBB");
-
-
     }
 }
